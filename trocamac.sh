@@ -4,8 +4,7 @@
 #caso sua interface de rede for diferente e so trocar no prgrama.
 # ###############################################################
 #
-MSG_HELP=" Meu nome e Mateus Rodrigues da Fonseca, tenho 28 anos, sou tecnico em informatica e estudo programaçao de forma autodidata 
-e esse e meu primeiro script fucional, espero que possa ajudar de alguma forma.
+MSG_HELP="esse e meu primeiro script fucional, espero que possa ajudar de alguma forma.
 script para troca de mac automatica caso sua interface de rede for diferente e so trocar no programa.
 Sinta-se a vontade para fazer mudanças necessarias no programa mas, nao esqueça de dar credito ao meu trabalho."
 VERS=" Versao atual 0.6"
